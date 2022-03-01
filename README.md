@@ -2,7 +2,6 @@
 
 Online Chat is a web application that allows simulation of a group communication network between several members
 
-Render
 ![Screenshot](./img/page1.png)
 
 
