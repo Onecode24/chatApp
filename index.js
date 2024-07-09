@@ -10,7 +10,7 @@ const server=http.createServer(app);
 const io=socketio(server); 
 
 // donner une dossier static
-app.use(express.static(path.join(__dirname, '_html_css')));
+app.use(express.static(path.join(__dirname, 'core')));
 
 const botName='chat bot';
 
